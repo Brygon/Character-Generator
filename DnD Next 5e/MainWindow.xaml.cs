@@ -71,7 +71,7 @@ namespace DnD_Next_5e
 
         private void btnHelpCreateChar_Click(object sender, RoutedEventArgs e)
         {
-            MessageBox.Show("This Feature Coming Soon. or not.");
+
         }
 
         private void btnOpenChar_Click(object sender, RoutedEventArgs e)
